@@ -5,7 +5,7 @@ from flask import Flask, jsonify,request
 app = Flask(__name__)
 
 # Configure the API key
-genai.configure(api_key="AIzaSyDpgK_d96krbbWf38abC1RnHyMUMMHTVS0")
+#genai.configure(api_key="AIzaSyDpgK_d96krbbWf38abC1RnHyMUMMHTVS0")
 
 
 
